@@ -1,5 +1,5 @@
 import pytest
-from SFTPConfig.reader import read_sftp_config, SFTPConfigFileNotFound, SFTPConfigSectionNotFound
+from sftpConfigReader.reader import read_sftp_config, SFTPConfigFileNotFound, SFTPConfigSectionNotFound
 
 
 @pytest.fixture()
