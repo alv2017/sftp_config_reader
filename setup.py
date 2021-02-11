@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="sftp_config_reader",
+    name="sftpConfigReader",
     version="1.0.0",
     author="Vitalija Alisauskaite (alv2017)",
     author_email="alv2017@protonmail.com",
